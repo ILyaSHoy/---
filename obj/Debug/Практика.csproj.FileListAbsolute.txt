@@ -1,0 +1,12 @@
+C:\Users\ILyaSHoy\source\repos\Практика\bin\Debug\Практика.exe.config
+C:\Users\ILyaSHoy\source\repos\Практика\bin\Debug\Практика.exe
+C:\Users\ILyaSHoy\source\repos\Практика\bin\Debug\Практика.pdb
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.csproj.AssemblyReference.cache
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.Form1.resources
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.Properties.Resources.resources
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.csproj.GenerateResource.cache
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.exe
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.pdb
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.Form2.resources
+C:\Users\ILyaSHoy\source\repos\Практика\obj\Debug\Практика.Form3.resources
